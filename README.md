@@ -1,1 +1,5 @@
-# Grupo_11_TallerPython_-20213334
+# Tarea 1
+Este repositorio contiene
+- Tarea 1
+- Tarea 2
+- Tarea 3
